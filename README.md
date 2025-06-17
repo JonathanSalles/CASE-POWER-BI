@@ -1,4 +1,4 @@
-# CASE-POWER-BI
+# CASE POWER-BI
 Preveja os resultados de um e-commerce utilizando o Power BI
 
 https://dncgroupbr.notion.site/Desafio-Preveja-os-resultados-de-um-e-commerce-utilizando-o-Power-BI-bbe09a05b449498bb645208799cda5ea
