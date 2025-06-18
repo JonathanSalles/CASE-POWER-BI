@@ -9,15 +9,6 @@ https://dncgroupbr.notion.site/Desafio-Preveja-os-resultados-de-um-e-commerce-ut
 
 Preveja os resultados de um e-commerce utilizando o Power BI. Você irá aplicar os seus conhecimentos de Excel e Power BI para construir um painel gerencial de um e-commerce que seja capaz de direcionar a uma análise de negócio para que a empresa defina as estratégias com o objetivo de aumentar as suas vendas. Também deverá estabelecer recomendações sobre como a empresa pode melhorar seus resultados.
 
-### 🚨 Antes de iniciar, atente-se ao formato de entrega deste desafio!
-
--   Nomeie o seu dashboard com seu RID e o número do desafio. Exemplo: `RID1234_Desafio01`
--   No Power BI, vá em `Salvar Como` > `Arquivo .pbix`
--   Submeta o arquivo `.pbix` em um drive
--   Altere as configurações do arquivo para deixá-lo público.
--   Copie o link após alterar a permissão de acesso.
--   Submeta o link do arquivo (e não da pasta do drive!) na plataforma.
-
 ## Contexto
 
 Neste desafio, você deverá construir um painel gerencial para um e-commerce que almeja estudar as suas vendas e assim, traçar a melhor estratégia para alavancar seus resultados.
